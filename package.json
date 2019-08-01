@@ -1,5 +1,5 @@
 {
-  "name": "react-final-form",
+  "name": "@yankovsky/react-final-form",
   "version": "6.3.0",
   "description": "🏁 High performance subscription-based form state management for React",
   "main": "dist/react-final-form.cjs.js",
